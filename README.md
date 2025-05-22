@@ -8,7 +8,7 @@
 ## <img src="https://img.icons8.com/fluency/30/000000/developer.png"/> Professional Journey
 
 ### <img src="https://img.icons8.com/color/25/000000/school.png"/> Cybersecurity/IT/AI Student
-**Nova High CTE Program** | *Aug 2022 - Present | Davie, FL*
+**Nova High CTE Program** | Davie, FL*
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
   
@@ -30,7 +30,7 @@
       <img src="https://placehold.co/120x60/2a2a4a/white?text=AI+Dentistry" alt="Dentistry" style="border-radius:5px;"/>
     </div>
     <ul>
-      <li>Created 3 winning AI solutions for business transformation</li>
+      <li>Created AI solutions for business transformation</li>
       <li>Designed inclusive gaming concept for disabled players</li>
       <li>Developed pediatric dentistry engagement system</li>
     </ul>
